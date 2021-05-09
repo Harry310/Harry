@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Harry310/">
     <img src="images/logo.png" alt="Logo" class="center" "width="128" height="128">
   </a>
 
