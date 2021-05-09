@@ -10,7 +10,7 @@
   <p align="center">
     Graphics & Design
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://discord.gg/RSz27j7hcY"><strong>Riverside Roleplay »</strong></a>
 
 <!-- CONTACT -->
 ## Contact
