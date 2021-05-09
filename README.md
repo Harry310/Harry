@@ -28,4 +28,4 @@ Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Harry310)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Harry310)
