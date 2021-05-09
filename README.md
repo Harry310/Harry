@@ -2,10 +2,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" class="center" "width="80" height="80">
+    <img src="images/logo.png" alt="Logo" class="center" "width="128" height="128">
   </a>
 
-  <h3 align="center">Harry</h3>
+  <h1 align="center">Harry</h1>
 
   <p align="center">
     Graphics & Design
