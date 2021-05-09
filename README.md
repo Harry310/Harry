@@ -1,4 +1,3 @@
-
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -12,9 +11,18 @@
     <br />
     <a href="https://discord.gg/RSz27j7hcY"><strong>Riverside Roleplay »</strong></a>
 
-<!-- CONTACT -->
 ## Contact
 
 Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 <br />Email - [alsoharry-services@mail.com](mailto:alsoharry-services@mail.com)
 <br />Discord - Harryy#8810
+
+## Skills
+- Communication, flexibility & time management.
+- Creativity, passion & collaboration.
+
+## (Past) Current Work
+<p><img src="images/rs.png" height="200px" width="200px" border="1px" style="float:right; clear:right"></p>
+<p><strong>Riverside Roleplay</strong>
+<br />- Head administrator within the staff team.
+<br />- Contributions of designs & soft development work.</p>
