@@ -22,7 +22,7 @@ Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 - Creativity, passion & collaboration.
 
 ## (Past) Current Work
-<p><img src="images/rs.png" height="200px" width="200px" border="1px" style="float:right; clear:right"></p>
+<p><img src="images/rs.png" class="center" height="64" width="64"></p>
 <p><strong>Riverside Roleplay</strong>
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
