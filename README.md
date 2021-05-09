@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Harry310/">
     <img src="images/logo.png" alt="Logo" class="center" "width="128" height="128">
   </a>
 
@@ -22,7 +22,8 @@ Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 - Creativity, passion & collaboration.
 
 ## (Past) Current Work
-<p><img src="images/rs.png" height="200px" width="200px" border="1px" style="float:right; clear:right"></p>
+<p align="center">
+    <img src="images/rs.png" alt="Logo" class="center" "width="64" height="64">
 <p><strong>Riverside Roleplay</strong>
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
