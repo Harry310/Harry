@@ -15,6 +15,6 @@
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)\n
-Email - [alsoharry-services@mail.com](mailto:alsoharry-services@mail.com)\n\n
-Discord - Harry#8810\n
+Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
+<br />Email - [alsoharry-services@mail.com](mailto:alsoharry-services@mail.com)
+<br />Discord - Harry#8810
