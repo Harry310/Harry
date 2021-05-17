@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/e988ff2186.js" crossorigin="anonymous"></script>
+
 <br />
 <p align="center">
   <a href="https://github.com/Harry310/">
@@ -7,7 +9,7 @@
   <h1 align="center">Harry</h1>
 
   <p align="center">
-      Graphics & Design
+      <i class="fas fa-layer-group"></i> Graphics & Design
     <br />
     <a href="https://discord.gg/RSz27j7hcY"><strong>Riverside Roleplay »</strong></a>
 
