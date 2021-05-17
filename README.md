@@ -7,7 +7,7 @@
   <h1 align="center">Harry</h1>
 
   <p align="center">
-    <i class="fas fa-swatchbook"></i> Graphics & Design
+      Graphics & Design
     <br />
     <a href="https://discord.gg/RSz27j7hcY"><strong>Riverside Roleplay »</strong></a>
 
