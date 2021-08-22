@@ -9,7 +9,7 @@
   <p align="center">
      Graphics & Design
     <br />
-    <a href="https://discord.gg/RSz27j7hcY"><strong>Riverside Roleplay »</strong></a>
+    <a href="https://discord.gg/riverside"><strong>Riverside Roleplay »</strong></a>
 
 ## Contact
 
