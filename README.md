@@ -9,8 +9,7 @@
   <p align="center">
      Graphics & Design
     <br />
-    <a href="https://discord.gg/4nTAV2rEx6"><strong>Riverside Roleplay »</strong></a>
-
+                  
 ## Contact
 
 Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
