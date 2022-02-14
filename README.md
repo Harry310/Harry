@@ -12,7 +12,6 @@
                   
 ## Contact
 
-Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 <br />Email - [alsoharry-services@mail.com](mailto:alsoharry-services@mail.com)
 <br />Discord - Harryy#8810
 
@@ -26,6 +25,7 @@ Twitter - [@servicesharry](https://twitter.com/ServicesHarry/)
 <p><strong>Riverside Roleplay</strong>
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
+<br />- Event management - engaging the community.</p>
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Harry310)
