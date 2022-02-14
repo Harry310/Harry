@@ -13,7 +13,6 @@
 ## Contact
 
 <br />Email - [alsoharry-services@mail.com](mailto:alsoharry-services@mail.com)
-<br />Discord - Harryy#8810
 
 ## Skills
 - Communication, flexibility & time management.
