@@ -20,10 +20,15 @@
 ## (Past) Current Work
 <p align="center">
     <img src="images/rs.png" alt="Logo" class="center" width="64" height="64">
-<p><strong>Riverside Roleplay</strong>
+<p><strong>[Riverside Roleplay](https://riverside-roleplay.com</strong>
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
 <br />- Event management - engaging the community.</p>
+
+<p><strong>[Steam Workshop](https://steamcommunity.com/profiles/76561198879159509/myworkshopfiles/?appid=4000)</strong>
+<br />- Contributions of designs, custom work.
+<br />- Use of blender.</p>
+<br />- Soft development work.</p>
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Harry310)
