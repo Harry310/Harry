@@ -19,12 +19,12 @@
 
 ## (Past) Current Work
 <img src="images/rs.png" width="32" height="32" />
-Riverside Roleplay
-<p><strong><a href="https://riverside-roleplay.com"></a></strong>
+<p><strong><a href="https://riverside-roleplay.com">Riverside Roleplay</a></strong>
 <p>- Head administrator within the staff team.</p>
 <p>- Contributions of designs & soft development work.</p>
 <p>- Event management - engaging the community.</p>
 
+<img src="images/sw.png" width="32" height="32" />                                        
 <p><strong><a href="https://steamcommunity.com/profiles/76561198879159509/myworkshopfiles/?appid=4000">Steam Workshop</a></strong>
 <p>- Contributions of designs, custom work.</p>
 <p>- Use of blender.</p>
