@@ -20,7 +20,7 @@
 ## (Past) Current Work
 <p align="center">
     <img src="images/rs.png" alt="Logo" class="center" width="64" height="64">
-<p><strong>[Riverside Roleplay](https://riverside-roleplay.com</strong>
+<p><strong>[Riverside Roleplay](https://riverside-roleplay.com)</strong>
 <br />- Head administrator within the staff team.
 <br />- Contributions of designs & soft development work.</p>
 <br />- Event management - engaging the community.</p>
