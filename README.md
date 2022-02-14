@@ -18,7 +18,7 @@
 - Creativity, passion & collaboration.
 
 ## (Past) Current Work
-<img src="img/logo.png" alt="RSRP" />Riverside Roleplay
+<img src="img/logo.png"/> Riverside Roleplay
 <p><strong><a href="https://riverside-roleplay.com"></a></strong>
 <p>- Head administrator within the staff team.</p>
 <p>- Contributions of designs & soft development work.</p>
